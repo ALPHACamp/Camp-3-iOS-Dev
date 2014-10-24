@@ -26,3 +26,4 @@ DerivedData
 *.xccheckout
 #CocoaPods
 Pods
+*.key
